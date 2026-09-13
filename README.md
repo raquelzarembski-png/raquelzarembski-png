@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**raquelzarembski-png/raquelzarembski-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Olá, eu sou a Raquel Zarembski 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedora | Python & IA | Xanxerê - SC 📍
+</div>
+
+### 👩‍💻 Sobre mim
+Em transição para tecnologia, apaixonada por criar soluções com IA. Meu foco é aprender construindo projetos reais.
+
+- 🔭 Projeto atual: **rag-pdf-assistant** - Assistente inteligente que responde perguntas de PDFs com RAG
+- 🌱 Estudando: **Python, IA, RAG, LangChain**
+- 🚀 Objetivo: Primeira oportunidade como Dev Júnior / Python
+- 💬 Aberta a colaborações e feedbacks!
+
+### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raquelzarembski-png&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelzarembski-png&layout=compact&theme=tokyonight" />
+</div>
+
+---
+<div align="center">⭐️ <i>Aprendendo um pouco mais a cada commit.</i></div>
